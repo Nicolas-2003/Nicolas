@@ -1,0 +1,17 @@
+
+h1{
+   text-align: center;
+   }
+h1.monospace {
+   font-family: "Lucida Console",monospace;
+   background : src="eSport.jpg";
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
+ 
